@@ -1,0 +1,1 @@
+This repository contains a Swift function that calculates the average of an array of Doubles.  The original function has a potential bug related to handling empty arrays and integer division. A corrected version is provided to address these issues.  The bug and solution are demonstrated with code samples and explanations.
